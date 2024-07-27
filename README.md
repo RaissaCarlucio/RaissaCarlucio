@@ -1,4 +1,5 @@
 ### Hi, my name is Raissa 👋
+Computer engineering student at INATEL
 
 [![Instagram](https://img.shields.io/badge/Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/raissa_b_carlucio/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-ec63a1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:raissa.carlucio@gmail.com)
@@ -18,4 +19,3 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-Computer engineering student at INATEL
