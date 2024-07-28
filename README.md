@@ -3,7 +3,7 @@ Computer engineering student at INATEL
 
 [![Instagram](https://img.shields.io/badge/Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/raissa_b_carlucio/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-ec63a1?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:raissa.carlucio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-carlucio-914795248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ec63a1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raissa-beatriz-carlucio-914795248/)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaissaCarlucio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ec63a1&text_color=FFF)
