@@ -10,6 +10,9 @@ Computer engineering student at INATEL
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RaissaCarlucio&layout=compact&bg_color=000&border_color=30A3DC&title_color=ec63a1&text_color=FFF)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaissaCarlucio&layout=compact&bg_color=000&border_color=30A3DC&title_color=ec63a1&text_color=FFF)
+
+
 
 ## Technologies I'm learning: 
 <div style="display: inline_block">
