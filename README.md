@@ -1,4 +1,5 @@
 ### Hi, my name is Raissa 👋
+![Gif de Menina e Gatinho](https://github.com/RaissaCarlucio/assets/blob/main/gif2.gif?raw=true)
 Computer engineering student at INATEL
 
 [![Instagram](https://img.shields.io/badge/Instagram-ec63a1?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/raissa_b_carlucio/?next=%2F)
